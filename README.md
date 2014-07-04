@@ -14,6 +14,7 @@ Install
 =======
 
 ``` git clone https://github.com/morsdyce/Angular-ES6.git && cd $_ ```
+
 ``` npm install && bower install ```
 
 Using
