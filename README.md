@@ -13,7 +13,7 @@ Gulp
 Install
 =======
 
-``` git clone https://github.com/morsdyce/Angular-ES6.git && cd $_ ```
+``` git clone https://github.com/morsdyce/Angular-ES6.git && cd Angular-ES6 ```
 
 ``` npm install && bower install ```
 
